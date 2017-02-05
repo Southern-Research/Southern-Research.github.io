@@ -35,18 +35,13 @@ keywords: Southern Research, Zika Virus, Arbovirus, CRO
         <img src="assets/Rhesus.png" alt="Rhesus Macaque" title="Rhesus Macaque"/>
     </a>
   </td>
-  <td class="right">
-    <a href="pages/publpics/isletc6_fig4.html">
-        <img src="assets/publpics/isletc6_fig4.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
-    </a>
-  </td>
 </tr>
 </table>
 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="morefigs.html">see more figures</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/rhesus_020417.pdf">Rhesus Macaque Model (Raw Data)</a></li>
       </ul>
   </div>
 </div>
