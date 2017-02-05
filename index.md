@@ -20,7 +20,7 @@ keywords: Southern Research, Zika Virus, Arbovirus, CRO
 <tr>
   <td class="left">
     <a href="http://www.southernresearch.org/news/southern-research-demonstrates-zika-virus-infection-in-cynomolgus-macaques/">
-        <img src="assets/cyno.png" alt="Cynomolgus Macaque" title="Cynomolgus Macaque"/>
+        <img src="assets/Cyno.png" alt="Cynomolgus Macaque" title="Cynomolgus Macaque"/>
     </a>
   </td>
   <td class="right">
@@ -29,19 +29,14 @@ keywords: Southern Research, Zika Virus, Arbovirus, CRO
     </a>
   </td>
 </tr>
-<tr>
-  <td class="left">
-    <a href="pages/publpics/Rhesus">
-        <img src="assets/Rhesus.png" alt="Rhesus Macaque" title="Rhesus Macaque"/>
-    </a>
-  </td>
-</tr>
+
 </table>
 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/rhesus_020417.pdf">Rhesus Macaque Model (Raw Data)</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/rhesus_020417.pdf">Koide, et al. (2016) Development of a Zika Virus Infection Model in Cynomolgus Macaques. Front. Microbiol. 7:2028.</a></li>
       </ul>
   </div>
 </div>
