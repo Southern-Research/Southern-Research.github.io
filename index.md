@@ -1,17 +1,17 @@
 ---
 layout: frontpage
-title: Karl Broman
-description: Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
-keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical genetics, recombination
+title: Southern Research Zika Data Repository
+description: Southern Research is committed to sharing our expertise and our open access data (data generated with internal or public funding) with the Zika community. 
+keywords: Southern Research, Zika Virus, Arbovirus, CRO
 ---
 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/kbroman">github</a></li>
-          <li><a href="http://kbroman.wordpress.com">blog</a></li>
-          <li><a href="https://twitter.com/kwbroman">@kwbroman</a></li>
+          <li><a href="https://bit.ly/SR-Zika">data release updates</a></li>
+          <li><a href="https://github.com/Southern-Research">github</a></li>
+          <li><a href="http://www.southernresearch.org/zika-virus/">blog</a></li>
+          <li><a href="https://twitter.com/SoResearchNews">@SoResearchNews</a></li>
       </ul>
   </div>
 </div>
@@ -19,21 +19,20 @@ keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical g
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="pages/publpics/iplotCorr.html">
-        <img src="assets/publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+    <a href="pages/publpics/cyno.html">
+        <img src="assets/publpics/cyno.png" alt="Cynomolgus Macaque" title="Cynomolgus Macaque"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/tian2016_fig4.html">
-        <img src="assets/publpics/tian2016_fig4.png" alt="Tian et
-        al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
+    <a href="pages/publpics/AG129.html">
+        <img src="assets/publpics/AG129.png" alt="AG129 Mice" title="AG129 Mice"/>
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
-    <a href="pages/publpics/samplemixups_fig7.html">
-        <img src="assets/publpics/samplemixups_fig7.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
+    <a href="pages/publpics/Rhesus">
+        <img src="assets/publpics/Rhesus.png" alt="Rhesus Macaque" title="Rhesus Macaque"/>
     </a>
   </td>
   <td class="right">
