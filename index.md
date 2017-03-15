@@ -16,25 +16,14 @@ keywords: Southern Research, Zika Virus, Arbovirus, CRO
   </div>
 </div>
 
-<table class="wide">
-<tr>
-  <td class="left">
-    <a href="http://www.southernresearch.org/news/southern-research-demonstrates-zika-virus-infection-in-cynomolgus-macaques/">
-        <img src="assets/Cyno.png" alt="Cynomolgus Macaque" title="Cynomolgus Macaque"/>
-    </a>
-  </td>
-  <td class="right">
-    <a href="http://www.southernresearch.org/news/ag129-mouse-model/">
-        <img src="assets/AG129.png" alt="AG129 Mice" title="AG129 Mice"/>
-    </a>
-  </td>
-</tr>
 
-</table>
+<H2> Data Links </H2>
 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
+          <li><a href="http://www.southernresearch.org/news/southern-research-demonstrates-zika-virus-infection-in-cynomolgus-macaques/">Cynomolgus Macaque Model (Summary Data and Description)</a></li>
+          <li><a href="http://www.southernresearch.org/news/ag129-mouse-model/">AG129 Mouse Model (Summary Data and Description)</a></li>
           <li><a href="{{ BASE_PATH }}/assets/rhesus_020417.pdf">Rhesus Macaque Model (Raw Data)</a></li>
           <li><a href="{{ BASE_PATH }}/assets/Development-of-a-Zika-Virus-Infection.pdf">Koide, et al. (2016) Development of a Zika Virus Infection Model in Cynomolgus Macaques. Front. Microbiol. 7:2028.</a></li>
       </ul>
