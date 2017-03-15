@@ -20,12 +20,12 @@ keywords: Southern Research, Zika Virus, Arbovirus, CRO
 <tr>
   <td class="left">
     <a href="http://www.southernresearch.org/news/southern-research-demonstrates-zika-virus-infection-in-cynomolgus-macaques/">
-        <img src="assets/Cyno.png" width=500 alt="Cynomolgus Macaque" title="Cynomolgus Macaque"/>
+        <img src="assets/Cyno.png" | width=500 alt="Cynomolgus Macaque" title="Cynomolgus Macaque"/>
     </a>
   </td>
   <td class="right">
     <a href="http://www.southernresearch.org/news/ag129-mouse-model/">
-        <img src="assets/AG129.png" width=500 alt="AG129 Mice" title="AG129 Mice"/>
+        <img src="assets/AG129.png" | width=500 alt="AG129 Mice" title="AG129 Mice"/>
     </a>
   </td>
 </tr>
